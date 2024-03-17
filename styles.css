@@ -194,3 +194,16 @@ ul {
     border: 2px solid white;
     
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    
+}
+
+.footer-container .footer {
+    padding: 30px;
+}
